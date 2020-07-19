@@ -1,5 +1,5 @@
-class Person  # starts defining our Person class
-  def talk  # start defining our #talk method
+class Person  
+  def talk  
     puts "Hello World!" t
   end  
 end 
