@@ -4,6 +4,12 @@ class Dog
   end
 end
 
+class Dog
+  def sit  
+    puts 'Woof!'
+  end
+end
+
 fido = Dog.new  
 fido.sit
 fido.bark
